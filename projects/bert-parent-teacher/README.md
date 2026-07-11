@@ -55,6 +55,8 @@
   ✔ Model Evaluation
   
   ✔ Prediction
+
+  ✔ Hyperparameter Tuning
   
   ---
   
@@ -72,8 +74,6 @@
   ---
   
   ## Visualizations
-  
-  (Insert screenshots)
   
   Confusion Matrix
   
@@ -96,8 +96,6 @@
   ---
   
   ## Future Improvements
-  
-  - Hyperparameter tuning
   
   - Larger dataset
   
